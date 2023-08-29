@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=1111mp&color=green)
+
+I'm The1111mp. I love building utilities aimed at increasing Developer productivity 🙌
+
+🔭 I’m currently working on Shanghai Netease
+
+🌱 I’m currently learning `Electron` | `C++` | `Qt` | `Nodejs` | `TypeScript`
+
+💬 Ask me about `Reactjs` | `JavaScript` | `TypeScript` | `Electron`
+
+📫 How to reach me: <a href="mailto:The111mp@outlook.com">The111mp@outlook.com</a>
+
+⚡ Hobby: write codes & walk around & cooking for my wife
+
+📖 Blog: [https://juejin.cn/user/1248673297886535](https://juejin.cn/user/1248673297886535)
+
+***
+
+<details>
+  <summary>:zap: Blog posts</summary>
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</details>
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
