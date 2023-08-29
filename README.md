@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-<details>
+<details open>
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
 
-<details>
+<details open>
   <summary>:zap: Github Stats</summary>
 
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1111mp&show_icons=true&hide_border=true&theme=gruvbox" />
 </details>
 
-<details>
+<details open>
   <summary>:zap: Most Used Languages</summary>
 
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1111mp&layout=compact&show_icons=true&hide_border=true&theme=gruvbox" />
