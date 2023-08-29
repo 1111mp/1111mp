@@ -21,8 +21,11 @@ I'm The1111mp. I love building utilities aimed at increasing Developer productiv
 <details>
   <summary>:zap: Blog posts</summary>
 
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  - [使用 nvm-desktop 轻松安装和管理多个 node 版本](https://juejin.cn/post/7267791228872179727)
+  - [Electron 中集成 SQLite3 数据库的最佳实践](https://juejin.cn/post/7202807471881306172)
+  - [从0开发IM，单聊群聊在线离线消息以及消息的已读未读功能](https://juejin.cn/post/7202583557751865401)
+  - [Electron（网页）中实现接近微信消息发送体验的消息输入框及界面](https://juejin.cn/post/7252505446396575781)
+  - [Qt中基于QWebEngineView和QWebChannel实现与web的交互](https://juejin.cn/post/7238423148555501629)
 </details>
 
 <details>
