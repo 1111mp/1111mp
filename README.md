@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<details open>
+<details>
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
