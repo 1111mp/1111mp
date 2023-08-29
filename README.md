@@ -4,6 +4,16 @@
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#3](https://github.com/1111mp/nvm-desktop/issues/3) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🚀 Published release [v1.0.0](https://github.com/1111mp/simple-store/releases/tag/v1.0.0) in [1111mp/simple-store](https://github.com/1111mp/simple-store)
+3. 🔒 Closed issue [#4](https://github.com/1111mp/nvm-desktop/issues/4) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#4](https://github.com/1111mp/nvm-desktop/issues/4#issuecomment-1687901965) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#3](https://github.com/1111mp/nvm-desktop/issues/3#issuecomment-1685844726) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🚀 Published release [v1.3.0](https://github.com/1111mp/nvm-desktop/releases/tag/v1.3.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🚀 Published release [v1.2.0](https://github.com/1111mp/nvm-desktop/releases/tag/v1.2.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🚀 Published release [v1.1.0](https://github.com/1111mp/nvm-desktop/releases/tag/v1.1.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🚀 Published release [v1.0.0](https://github.com/1111mp/nvm-desktop/releases/tag/v1.0.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🚀 Published release [v1.0.0](https://github.com/1111mp/nvm-desktop/releases/tag/v1.0.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
