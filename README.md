@@ -10,7 +10,7 @@ I'm The1111mp. I love building utilities aimed at increasing Developer productiv
 
 💬 Ask me about `Reactjs` | `JavaScript` | `TypeScript` | `Electron`
 
-📫 How to reach me: <a href="mailto:The111mp@outlook.com">The111mp@outlook.com</a>
+📫 How to reach me: <a href="mailto:The1111mp@outlook.com">The1111mp@outlook.com</a>
 
 ⚡ Hobby: write codes & walk around & cooking for my wife
 
