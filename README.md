@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=1111mp&color=green)
 
-I'm The1111mp. I love building utilities aimed at increasing Developer productivity 🙌
+I'm The1111mp, fullstack developer with a focus on frontend. I love building utilities aimed at increasing Developer productivity 🙌
 
 🔭 I’m currently working on Shanghai Netease
 
