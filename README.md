@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.0.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🔒 Closed issue [#1548](https://github.com/volta-cli/volta/issues/1548) in [volta-cli/volta](https://github.com/volta-cli/volta)
-3. ❗ Opened issue [#1548](https://github.com/volta-cli/volta/issues/1548) in [volta-cli/volta](https://github.com/volta-cli/volta)
-4. 🎉 Merged PR [#36](https://github.com/1111mp/electron_client/pull/36) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
-5. 🚀 Published release [v1.0.1](https://github.com/1111mp/simple-store/releases/tag/v1.0.1) in [1111mp/simple-store](https://github.com/1111mp/simple-store)
-6. 🔒 Closed issue [#3](https://github.com/1111mp/nvm-desktop/issues/3) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🚀 Published release [v1.0.0](https://github.com/1111mp/simple-store/releases/tag/v1.0.0) in [1111mp/simple-store](https://github.com/1111mp/simple-store)
-8. 🔒 Closed issue [#4](https://github.com/1111mp/nvm-desktop/issues/4) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#4](https://github.com/1111mp/nvm-desktop/issues/4#issuecomment-1687901965) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#3](https://github.com/1111mp/nvm-desktop/issues/3#issuecomment-1685844726) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🚀 Published release [v2.0.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.0.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+2. 🚀 Published release [v2.0.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.0.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🔒 Closed issue [#1548](https://github.com/volta-cli/volta/issues/1548) in [volta-cli/volta](https://github.com/volta-cli/volta)
+4. ❗ Opened issue [#1548](https://github.com/volta-cli/volta/issues/1548) in [volta-cli/volta](https://github.com/volta-cli/volta)
+5. 🎉 Merged PR [#36](https://github.com/1111mp/electron_client/pull/36) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
+6. 🚀 Published release [v1.0.1](https://github.com/1111mp/simple-store/releases/tag/v1.0.1) in [1111mp/simple-store](https://github.com/1111mp/simple-store)
+7. 🔒 Closed issue [#3](https://github.com/1111mp/nvm-desktop/issues/3) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🚀 Published release [v1.0.0](https://github.com/1111mp/simple-store/releases/tag/v1.0.0) in [1111mp/simple-store](https://github.com/1111mp/simple-store)
+9. 🔒 Closed issue [#4](https://github.com/1111mp/nvm-desktop/issues/4) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#4](https://github.com/1111mp/nvm-desktop/issues/4#issuecomment-1687901965) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
