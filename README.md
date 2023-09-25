@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/1111mp/nvmd-command/pull/1) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-2. 🎉 Merged PR [#38](https://github.com/1111mp/electron_client/pull/38) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
-3. 🎉 Merged PR [#37](https://github.com/1111mp/electron_client/pull/37) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
-4. 🚀 Published release [v2.1.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.1.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🎉 Merged PR [#5](https://github.com/1111mp/nvm-desktop/pull/5) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 💪 Opened PR [#5](https://github.com/1111mp/nvm-desktop/pull/5) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🚀 Published release [v2.0.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.0.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-8. 🚀 Published release [v2.0.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.0.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🔒 Closed issue [#1548](https://github.com/volta-cli/volta/issues/1548) in [volta-cli/volta](https://github.com/volta-cli/volta)
-10. ❗ Opened issue [#1548](https://github.com/volta-cli/volta/issues/1548) in [volta-cli/volta](https://github.com/volta-cli/volta)
+1. 💪 Opened PR [#6](https://github.com/1111mp/nvm-desktop/pull/6) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 💪 Opened PR [#1](https://github.com/1111mp/nvmd-command/pull/1) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+3. 🎉 Merged PR [#38](https://github.com/1111mp/electron_client/pull/38) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
+4. 🎉 Merged PR [#37](https://github.com/1111mp/electron_client/pull/37) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
+5. 🚀 Published release [v2.1.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.1.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🎉 Merged PR [#5](https://github.com/1111mp/nvm-desktop/pull/5) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 💪 Opened PR [#5](https://github.com/1111mp/nvm-desktop/pull/5) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🚀 Published release [v2.0.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.0.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+9. 🚀 Published release [v2.0.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.0.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🔒 Closed issue [#1548](https://github.com/volta-cli/volta/issues/1548) in [volta-cli/volta](https://github.com/volta-cli/volta)
   <!--END_SECTION:activity-->
 </details>
 
