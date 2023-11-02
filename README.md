@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1778900389) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1778885230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1778516012) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#3](https://github.com/1111mp/Vulkan/issues/3#issuecomment-1775410552) in [1111mp/Vulkan](https://github.com/1111mp/Vulkan)
-5. 🎉 Merged PR [#26](https://github.com/1111mp/im_server/pull/26) in [1111mp/im_server](https://github.com/1111mp/im_server)
-6. 🎉 Merged PR [#41](https://github.com/1111mp/electron_client/pull/41) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
-7. 🚀 Published release [v2.3.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.3.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-8. 🚀 Published release [v2.3.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.3.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🎉 Merged PR [#10](https://github.com/1111mp/nvm-desktop/pull/10) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#10](https://github.com/1111mp/nvm-desktop/pull/10#issuecomment-1763224620) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🚀 Published release [v2.4.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.4.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+2. 🚀 Published release [v2.4.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.4.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1778900389) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1778885230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1778516012) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#3](https://github.com/1111mp/Vulkan/issues/3#issuecomment-1775410552) in [1111mp/Vulkan](https://github.com/1111mp/Vulkan)
+7. 🎉 Merged PR [#26](https://github.com/1111mp/im_server/pull/26) in [1111mp/im_server](https://github.com/1111mp/im_server)
+8. 🎉 Merged PR [#41](https://github.com/1111mp/electron_client/pull/41) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
+9. 🚀 Published release [v2.3.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.3.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+10. 🚀 Published release [v2.3.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.3.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
