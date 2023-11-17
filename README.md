@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/1111mp/nvm-desktop/issues/14#issuecomment-1814469197) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#13](https://github.com/1111mp/nvm-desktop/issues/13#issuecomment-1813792176) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#13](https://github.com/1111mp/nvm-desktop/issues/13#issuecomment-1813756527) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🎉 Merged PR [#42](https://github.com/1111mp/electron_client/pull/42) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
-5. 🗣 Commented on [#12](https://github.com/1111mp/nvm-desktop/issues/12#issuecomment-1805542647) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🗣 Commented on [#1911](https://github.com/nextui-org/nextui/issues/1911#issuecomment-1803138480) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-7. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1790529029) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🔒 Closed issue [#11](https://github.com/1111mp/nvm-desktop/issues/11) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🚀 Published release [v2.4.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.4.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-10. 🚀 Published release [v2.4.0](https://github.com/1111mp/nvm-desktop/releases/tag/v2.4.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#15](https://github.com/1111mp/nvm-desktop/issues/15#issuecomment-1815661014) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#14](https://github.com/1111mp/nvm-desktop/issues/14#issuecomment-1814469197) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#13](https://github.com/1111mp/nvm-desktop/issues/13#issuecomment-1813792176) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#13](https://github.com/1111mp/nvm-desktop/issues/13#issuecomment-1813756527) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🎉 Merged PR [#42](https://github.com/1111mp/electron_client/pull/42) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
+6. 🗣 Commented on [#12](https://github.com/1111mp/nvm-desktop/issues/12#issuecomment-1805542647) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#1911](https://github.com/nextui-org/nextui/issues/1911#issuecomment-1803138480) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+8. 🗣 Commented on [#11](https://github.com/1111mp/nvm-desktop/issues/11#issuecomment-1790529029) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🔒 Closed issue [#11](https://github.com/1111mp/nvm-desktop/issues/11) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🚀 Published release [v2.4.0](https://github.com/1111mp/nvmd-command/releases/tag/v2.4.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
   <!--END_SECTION:activity-->
 </details>
 
