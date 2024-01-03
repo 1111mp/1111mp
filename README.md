@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/1111mp/nvm-desktop/issues/21#issuecomment-1874845105) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873996054) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🔒 Closed issue [#44](https://github.com/1111mp/nvm-desktop/issues/44) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873970590) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873395972) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🗣 Commented on [#2134](https://github.com/nextui-org/nextui/issues/2134#issuecomment-1873389464) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-7. 🗣 Commented on [#2114](https://github.com/nextui-org/nextui/issues/2114#issuecomment-1872845813) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-8. ❗ Opened issue [#829](https://github.com/juhaku/utoipa/issues/829) in [juhaku/utoipa](https://github.com/juhaku/utoipa)
-9. 🎉 Merged PR [#28](https://github.com/1111mp/im_server/pull/28) in [1111mp/im_server](https://github.com/1111mp/im_server)
-10. 🔒 Closed issue [#40](https://github.com/1111mp/nvm-desktop/issues/40) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 💪 Opened PR [#2202](https://github.com/nextui-org/nextui/pull/2202) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. 🗣 Commented on [#21](https://github.com/1111mp/nvm-desktop/issues/21#issuecomment-1874845105) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873996054) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🔒 Closed issue [#44](https://github.com/1111mp/nvm-desktop/issues/44) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873970590) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873395972) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#2134](https://github.com/nextui-org/nextui/issues/2134#issuecomment-1873389464) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+8. 🗣 Commented on [#2114](https://github.com/nextui-org/nextui/issues/2114#issuecomment-1872845813) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+9. ❗ Opened issue [#829](https://github.com/juhaku/utoipa/issues/829) in [juhaku/utoipa](https://github.com/juhaku/utoipa)
+10. 🎉 Merged PR [#28](https://github.com/1111mp/im_server/pull/28) in [1111mp/im_server](https://github.com/1111mp/im_server)
   <!--END_SECTION:activity-->
 </details>
 
