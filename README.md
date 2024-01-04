@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/1111mp/nvm-desktop/issues/38#issuecomment-1876438156) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#38](https://github.com/1111mp/nvm-desktop/issues/38#issuecomment-1876418292) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 💪 Opened PR [#2202](https://github.com/nextui-org/nextui/pull/2202) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#21](https://github.com/1111mp/nvm-desktop/issues/21#issuecomment-1874845105) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873996054) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🔒 Closed issue [#44](https://github.com/1111mp/nvm-desktop/issues/44) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873970590) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873395972) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#2134](https://github.com/nextui-org/nextui/issues/2134#issuecomment-1873389464) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-10. 🗣 Commented on [#2114](https://github.com/nextui-org/nextui/issues/2114#issuecomment-1872845813) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+1. 🗣 Commented on [#38](https://github.com/1111mp/nvm-desktop/issues/38#issuecomment-1876504345) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#38](https://github.com/1111mp/nvm-desktop/issues/38#issuecomment-1876438156) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#38](https://github.com/1111mp/nvm-desktop/issues/38#issuecomment-1876418292) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 💪 Opened PR [#2202](https://github.com/nextui-org/nextui/pull/2202) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 🗣 Commented on [#21](https://github.com/1111mp/nvm-desktop/issues/21#issuecomment-1874845105) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873996054) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🔒 Closed issue [#44](https://github.com/1111mp/nvm-desktop/issues/44) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873970590) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#44](https://github.com/1111mp/nvm-desktop/issues/44#issuecomment-1873395972) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#2134](https://github.com/nextui-org/nextui/issues/2134#issuecomment-1873389464) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
   <!--END_SECTION:activity-->
 </details>
 
