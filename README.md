@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/1111mp/nvm-desktop/issues/49#issuecomment-1907347884) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#50](https://github.com/1111mp/nvm-desktop/issues/50#issuecomment-1907347361) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#49](https://github.com/1111mp/nvm-desktop/issues/49#issuecomment-1907279809) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#2202](https://github.com/nextui-org/nextui/pull/2202#issuecomment-1884585580) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-5. 💪 Opened PR [#2223](https://github.com/nextui-org/nextui/pull/2223) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-6. 🗣 Commented on [#46](https://github.com/1111mp/nvm-desktop/issues/46#issuecomment-1880003375) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🔒 Closed issue [#46](https://github.com/1111mp/nvm-desktop/issues/46) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#46](https://github.com/1111mp/nvm-desktop/issues/46#issuecomment-1879925153) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#21](https://github.com/1111mp/nvm-desktop/issues/21#issuecomment-1879560796) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🔒 Closed issue [#21](https://github.com/1111mp/nvm-desktop/issues/21) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🎉 Merged PR [#12](https://github.com/1111mp/flask_init/pull/12) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
+2. 🎉 Merged PR [#44](https://github.com/1111mp/electron_client/pull/44) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
+3. 🎉 Merged PR [#11](https://github.com/1111mp/flask_init/pull/11) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
+4. 🗣 Commented on [#49](https://github.com/1111mp/nvm-desktop/issues/49#issuecomment-1907347884) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#50](https://github.com/1111mp/nvm-desktop/issues/50#issuecomment-1907347361) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#49](https://github.com/1111mp/nvm-desktop/issues/49#issuecomment-1907279809) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#2202](https://github.com/nextui-org/nextui/pull/2202#issuecomment-1884585580) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+8. 💪 Opened PR [#2223](https://github.com/nextui-org/nextui/pull/2223) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+9. 🗣 Commented on [#46](https://github.com/1111mp/nvm-desktop/issues/46#issuecomment-1880003375) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🔒 Closed issue [#46](https://github.com/1111mp/nvm-desktop/issues/46) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
