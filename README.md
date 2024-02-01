@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/1111mp/nvm-desktop/issues/51#issuecomment-1918315533) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#52](https://github.com/1111mp/nvm-desktop/issues/52#issuecomment-1913072875) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#5](https://github.com/1111mp/nvmd-command/issues/5#issuecomment-1912952408) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-4. 🗣 Commented on [#10787](https://github.com/remix-run/react-router/issues/10787#issuecomment-1912096582) in [remix-run/react-router](https://github.com/remix-run/react-router)
-5. 🗣 Commented on [#52](https://github.com/1111mp/nvm-desktop/issues/52#issuecomment-1912077398) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🗣 Commented on [#5](https://github.com/1111mp/nvmd-command/issues/5#issuecomment-1911931708) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-7. 🗣 Commented on [#51](https://github.com/1111mp/nvm-desktop/issues/51#issuecomment-1909712277) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#3579](https://github.com/electron-react-boilerplate/electron-react-boilerplate/pull/3579#issuecomment-1907626166) in [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-9. 🎉 Merged PR [#12](https://github.com/1111mp/flask_init/pull/12) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
-10. 🎉 Merged PR [#44](https://github.com/1111mp/electron_client/pull/44) in [1111mp/electron_client](https://github.com/1111mp/electron_client)
+1. 🗣 Commented on [#53](https://github.com/1111mp/nvm-desktop/issues/53#issuecomment-1920672473) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#51](https://github.com/1111mp/nvm-desktop/issues/51#issuecomment-1918315533) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#52](https://github.com/1111mp/nvm-desktop/issues/52#issuecomment-1913072875) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#5](https://github.com/1111mp/nvmd-command/issues/5#issuecomment-1912952408) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+5. 🗣 Commented on [#10787](https://github.com/remix-run/react-router/issues/10787#issuecomment-1912096582) in [remix-run/react-router](https://github.com/remix-run/react-router)
+6. 🗣 Commented on [#52](https://github.com/1111mp/nvm-desktop/issues/52#issuecomment-1912077398) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#5](https://github.com/1111mp/nvmd-command/issues/5#issuecomment-1911931708) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+8. 🗣 Commented on [#51](https://github.com/1111mp/nvm-desktop/issues/51#issuecomment-1909712277) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#3579](https://github.com/electron-react-boilerplate/electron-react-boilerplate/pull/3579#issuecomment-1907626166) in [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+10. 🎉 Merged PR [#12](https://github.com/1111mp/flask_init/pull/12) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
   <!--END_SECTION:activity-->
 </details>
 
