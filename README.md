@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12248](https://github.com/webdriverio/webdriverio/issues/12248#issuecomment-1946177929) in [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
-2. 🗣 Commented on [#12248](https://github.com/webdriverio/webdriverio/issues/12248#issuecomment-1945618136) in [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
-3. ❗ Opened issue [#12248](https://github.com/webdriverio/webdriverio/issues/12248) in [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
-4. 🗣 Commented on [#60](https://github.com/1111mp/nvm-desktop/issues/60#issuecomment-1943133837) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#60](https://github.com/1111mp/nvm-desktop/issues/60#issuecomment-1941467984) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. ❗ Opened issue [#1082](https://github.com/egoist/tsup/issues/1082) in [egoist/tsup](https://github.com/egoist/tsup)
-7. 🗣 Commented on [#58](https://github.com/1111mp/nvm-desktop/issues/58#issuecomment-1935235078) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#58](https://github.com/1111mp/nvm-desktop/issues/58#issuecomment-1935180280) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#57](https://github.com/1111mp/nvm-desktop/issues/57#issuecomment-1933256590) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#51](https://github.com/1111mp/nvm-desktop/issues/51#issuecomment-1928749026) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#12248](https://github.com/webdriverio/webdriverio/issues/12248#issuecomment-1947599406) in [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
+2. 🗣 Commented on [#12248](https://github.com/webdriverio/webdriverio/issues/12248#issuecomment-1946177929) in [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
+3. 🗣 Commented on [#12248](https://github.com/webdriverio/webdriverio/issues/12248#issuecomment-1945618136) in [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
+4. ❗ Opened issue [#12248](https://github.com/webdriverio/webdriverio/issues/12248) in [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
+5. 🗣 Commented on [#60](https://github.com/1111mp/nvm-desktop/issues/60#issuecomment-1943133837) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#60](https://github.com/1111mp/nvm-desktop/issues/60#issuecomment-1941467984) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. ❗ Opened issue [#1082](https://github.com/egoist/tsup/issues/1082) in [egoist/tsup](https://github.com/egoist/tsup)
+8. 🗣 Commented on [#58](https://github.com/1111mp/nvm-desktop/issues/58#issuecomment-1935235078) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#58](https://github.com/1111mp/nvm-desktop/issues/58#issuecomment-1935180280) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#57](https://github.com/1111mp/nvm-desktop/issues/57#issuecomment-1933256590) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
