@@ -32,16 +32,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/1111mp/nvm-desktop/issues/68#issuecomment-1980400296) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#68](https://github.com/1111mp/nvm-desktop/issues/68#issuecomment-1980252816) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#68](https://github.com/1111mp/nvm-desktop/issues/68#issuecomment-1980196434) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#67](https://github.com/1111mp/nvm-desktop/issues/67#issuecomment-1979877978) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#3568](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/3568#issuecomment-1978225949) in [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-6. 🗣 Commented on [#62](https://github.com/1111mp/nvm-desktop/issues/62#issuecomment-1975143534) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🔒 Closed issue [#62](https://github.com/1111mp/nvm-desktop/issues/62) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🚀 Published release [v3.2.0](https://github.com/1111mp/nvm-desktop/releases/tag/v3.2.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🚀 Published release [v3.2.0](https://github.com/1111mp/nvmd-command/releases/tag/v3.2.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-10. 🎉 Merged PR [#7](https://github.com/1111mp/nvmd-command/pull/7) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+1. 🗣 Commented on [#68](https://github.com/1111mp/nvm-desktop/issues/68#issuecomment-1982815362) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#68](https://github.com/1111mp/nvm-desktop/issues/68#issuecomment-1980400296) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#68](https://github.com/1111mp/nvm-desktop/issues/68#issuecomment-1980252816) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#68](https://github.com/1111mp/nvm-desktop/issues/68#issuecomment-1980196434) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#67](https://github.com/1111mp/nvm-desktop/issues/67#issuecomment-1979877978) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#3568](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/3568#issuecomment-1978225949) in [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+7. 🗣 Commented on [#62](https://github.com/1111mp/nvm-desktop/issues/62#issuecomment-1975143534) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🔒 Closed issue [#62](https://github.com/1111mp/nvm-desktop/issues/62) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🚀 Published release [v3.2.0](https://github.com/1111mp/nvm-desktop/releases/tag/v3.2.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🚀 Published release [v3.2.0](https://github.com/1111mp/nvmd-command/releases/tag/v3.2.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
   <!--END_SECTION:activity-->
 </details>
 
