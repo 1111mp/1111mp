@@ -33,16 +33,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/1111mp/nvm-desktop/issues/80#issuecomment-2071467224) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#80](https://github.com/1111mp/nvm-desktop/issues/80#issuecomment-2071354792) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#78](https://github.com/1111mp/nvm-desktop/issues/78#issuecomment-2071340103) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🔓 Reopened issue [#78](https://github.com/1111mp/nvm-desktop/issues/78) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#78](https://github.com/1111mp/nvm-desktop/issues/78#issuecomment-2068914124) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🗣 Commented on [#77](https://github.com/1111mp/nvm-desktop/issues/77#issuecomment-2066700889) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🗣 Commented on [#3568](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/3568#issuecomment-2053353047) in [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-8. 🎉 Merged PR [#13](https://github.com/1111mp/flask_init/pull/13) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
-9. 🎉 Merged PR [#29](https://github.com/1111mp/im_server/pull/29) in [1111mp/im_server](https://github.com/1111mp/im_server)
-10. 🗣 Commented on [#326](https://github.com/vitest-dev/vscode/issues/326#issuecomment-2041370243) in [vitest-dev/vscode](https://github.com/vitest-dev/vscode)
+1. 🗣 Commented on [#80](https://github.com/1111mp/nvm-desktop/issues/80#issuecomment-2071522627) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🔒 Closed issue [#80](https://github.com/1111mp/nvm-desktop/issues/80) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#80](https://github.com/1111mp/nvm-desktop/issues/80#issuecomment-2071467224) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#80](https://github.com/1111mp/nvm-desktop/issues/80#issuecomment-2071354792) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#78](https://github.com/1111mp/nvm-desktop/issues/78#issuecomment-2071340103) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🔓 Reopened issue [#78](https://github.com/1111mp/nvm-desktop/issues/78) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#78](https://github.com/1111mp/nvm-desktop/issues/78#issuecomment-2068914124) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🗣 Commented on [#77](https://github.com/1111mp/nvm-desktop/issues/77#issuecomment-2066700889) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#3568](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/3568#issuecomment-2053353047) in [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+10. 🎉 Merged PR [#13](https://github.com/1111mp/flask_init/pull/13) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
   <!--END_SECTION:activity-->
 </details>
 
