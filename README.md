@@ -33,16 +33,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/1111mp/nvm-desktop/issues/84#issuecomment-2099566355) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🔒 Closed issue [#84](https://github.com/1111mp/nvm-desktop/issues/84) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#78](https://github.com/1111mp/nvm-desktop/issues/78#issuecomment-2099563677) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🔒 Closed issue [#78](https://github.com/1111mp/nvm-desktop/issues/78) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🚀 Published release [v3.3.0](https://github.com/1111mp/nvm-desktop/releases/tag/v3.3.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🚀 Published release [v3.3.0](https://github.com/1111mp/nvmd-command/releases/tag/v3.3.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-7. 🎉 Merged PR [#16](https://github.com/1111mp/flask_init/pull/16) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
-8. 🎉 Merged PR [#15](https://github.com/1111mp/flask_init/pull/15) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
-9. 🗣 Commented on [#84](https://github.com/1111mp/nvm-desktop/issues/84#issuecomment-2095254548) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🎉 Merged PR [#83](https://github.com/1111mp/nvm-desktop/pull/83) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#85](https://github.com/1111mp/nvm-desktop/issues/85#issuecomment-2105454549) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#84](https://github.com/1111mp/nvm-desktop/issues/84#issuecomment-2099566355) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🔒 Closed issue [#84](https://github.com/1111mp/nvm-desktop/issues/84) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#78](https://github.com/1111mp/nvm-desktop/issues/78#issuecomment-2099563677) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🔒 Closed issue [#78](https://github.com/1111mp/nvm-desktop/issues/78) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🚀 Published release [v3.3.0](https://github.com/1111mp/nvm-desktop/releases/tag/v3.3.0) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🚀 Published release [v3.3.0](https://github.com/1111mp/nvmd-command/releases/tag/v3.3.0) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+8. 🎉 Merged PR [#16](https://github.com/1111mp/flask_init/pull/16) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
+9. 🎉 Merged PR [#15](https://github.com/1111mp/flask_init/pull/15) in [1111mp/flask_init](https://github.com/1111mp/flask_init)
+10. 🗣 Commented on [#84](https://github.com/1111mp/nvm-desktop/issues/84#issuecomment-2095254548) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
