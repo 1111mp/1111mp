@@ -33,16 +33,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/1111mp/nvm-desktop/issues/119#issuecomment-2380612272) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#118](https://github.com/1111mp/nvm-desktop/issues/118#issuecomment-2379425797) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#11](https://github.com/1111mp/nvmd-command/issues/11#issuecomment-2376024649) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-4. 🔒 Closed issue [#10](https://github.com/1111mp/nvmd-command/issues/10) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-5. 🔒 Closed issue [#9](https://github.com/1111mp/nvmd-command/issues/9) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-6. 🔒 Closed issue [#4](https://github.com/1111mp/nvmd-command/issues/4) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-7. 🗣 Commented on [#117](https://github.com/1111mp/nvm-desktop/issues/117#issuecomment-2375562524) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🔒 Closed issue [#117](https://github.com/1111mp/nvm-desktop/issues/117) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#117](https://github.com/1111mp/nvm-desktop/issues/117#issuecomment-2370968034) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#117](https://github.com/1111mp/nvm-desktop/issues/117#issuecomment-2370801940) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#119](https://github.com/1111mp/nvm-desktop/issues/119#issuecomment-2381029550) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#119](https://github.com/1111mp/nvm-desktop/issues/119#issuecomment-2380612272) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#118](https://github.com/1111mp/nvm-desktop/issues/118#issuecomment-2379425797) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#11](https://github.com/1111mp/nvmd-command/issues/11#issuecomment-2376024649) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+5. 🔒 Closed issue [#10](https://github.com/1111mp/nvmd-command/issues/10) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+6. 🔒 Closed issue [#9](https://github.com/1111mp/nvmd-command/issues/9) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+7. 🔒 Closed issue [#4](https://github.com/1111mp/nvmd-command/issues/4) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+8. 🗣 Commented on [#117](https://github.com/1111mp/nvm-desktop/issues/117#issuecomment-2375562524) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🔒 Closed issue [#117](https://github.com/1111mp/nvm-desktop/issues/117) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#117](https://github.com/1111mp/nvm-desktop/issues/117#issuecomment-2370968034) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
