@@ -33,16 +33,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406832900) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406782521) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406740572) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406713089) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406682629) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🔒 Closed issue [#126](https://github.com/1111mp/nvm-desktop/issues/126) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. ❗ Opened issue [#126](https://github.com/1111mp/nvm-desktop/issues/126) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#116](https://github.com/1111mp/nvm-desktop/issues/116#issuecomment-2406506838) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406500872) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406497635) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#11254](https://github.com/tauri-apps/tauri/issues/11254#issuecomment-2406891794) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406891333) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406885187) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🔓 Reopened issue [#124](https://github.com/1111mp/nvm-desktop/issues/124) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406859816) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406832900) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406782521) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406740572) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406713089) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#124](https://github.com/1111mp/nvm-desktop/issues/124#issuecomment-2406682629) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
