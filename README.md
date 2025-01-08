@@ -33,16 +33,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/1111mp/nvm-desktop/pull/153) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#152](https://github.com/1111mp/nvm-desktop/issues/152#issuecomment-2561541601) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#151](https://github.com/1111mp/nvm-desktop/issues/151#issuecomment-2560611212) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#151](https://github.com/1111mp/nvm-desktop/issues/151#issuecomment-2560587275) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#148](https://github.com/1111mp/nvm-desktop/issues/148#issuecomment-2558046925) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🔒 Closed issue [#148](https://github.com/1111mp/nvm-desktop/issues/148) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🗣 Commented on [#148](https://github.com/1111mp/nvm-desktop/issues/148#issuecomment-2543560418) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. ❗ Opened issue [#46225](https://github.com/DigitalPlatDev/FreeDomain/issues/46225) in [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
-9. ❗ Opened issue [#46215](https://github.com/DigitalPlatDev/FreeDomain/issues/46215) in [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
-10. 🗣 Commented on [#147](https://github.com/1111mp/nvm-desktop/issues/147#issuecomment-2519988630) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#23](https://github.com/1111mp/nvm-desktop/issues/23#issuecomment-2577416356) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 💪 Opened PR [#153](https://github.com/1111mp/nvm-desktop/pull/153) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#152](https://github.com/1111mp/nvm-desktop/issues/152#issuecomment-2561541601) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#151](https://github.com/1111mp/nvm-desktop/issues/151#issuecomment-2560611212) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#151](https://github.com/1111mp/nvm-desktop/issues/151#issuecomment-2560587275) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#148](https://github.com/1111mp/nvm-desktop/issues/148#issuecomment-2558046925) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🔒 Closed issue [#148](https://github.com/1111mp/nvm-desktop/issues/148) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🗣 Commented on [#148](https://github.com/1111mp/nvm-desktop/issues/148#issuecomment-2543560418) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. ❗ Opened issue [#46225](https://github.com/DigitalPlatDev/FreeDomain/issues/46225) in [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+10. ❗ Opened issue [#46215](https://github.com/DigitalPlatDev/FreeDomain/issues/46215) in [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
   <!--END_SECTION:activity-->
 </details>
 
