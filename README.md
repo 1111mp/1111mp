@@ -4,8 +4,6 @@
 
 I'm The1111mp, fullstack developer with a focus on frontend. I love building utilities aimed at increasing Developer productivity 🙌
 
-🔭 I’m currently working on Shanghai Netease
-
 🌱 I’m currently learning `Electron` | `Rust` | `Nodejs` | `TypeScript` | `C++` | `Qt`
 
 💬 Ask me about `Reactjs` | `JavaScript` | `TypeScript` | `Nodejs` | `Electron` | `Rust`
