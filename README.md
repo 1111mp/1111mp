@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/1111mp/nvm-desktop/issues/171#issuecomment-2709785992) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#169](https://github.com/1111mp/nvm-desktop/issues/169#issuecomment-2709635671) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🔒 Closed issue [#169](https://github.com/1111mp/nvm-desktop/issues/169) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 💪 Opened PR [#1091](https://github.com/tauri-apps/tao/pull/1091) in [tauri-apps/tao](https://github.com/tauri-apps/tao)
-5. 🗣 Commented on [#12894](https://github.com/tauri-apps/tauri/issues/12894#issuecomment-2705393752) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-6. 🗣 Commented on [#169](https://github.com/1111mp/nvm-desktop/issues/169#issuecomment-2702796579) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🗣 Commented on [#168](https://github.com/1111mp/nvm-desktop/issues/168#issuecomment-2699746548) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#167](https://github.com/1111mp/nvm-desktop/issues/167#issuecomment-2693553694) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#167](https://github.com/1111mp/nvm-desktop/issues/167#issuecomment-2693379564) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#166](https://github.com/1111mp/nvm-desktop/issues/166#issuecomment-2686747417) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#171](https://github.com/1111mp/nvm-desktop/issues/171#issuecomment-2709795071) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#171](https://github.com/1111mp/nvm-desktop/issues/171#issuecomment-2709785992) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#169](https://github.com/1111mp/nvm-desktop/issues/169#issuecomment-2709635671) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🔒 Closed issue [#169](https://github.com/1111mp/nvm-desktop/issues/169) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 💪 Opened PR [#1091](https://github.com/tauri-apps/tao/pull/1091) in [tauri-apps/tao](https://github.com/tauri-apps/tao)
+6. 🗣 Commented on [#12894](https://github.com/tauri-apps/tauri/issues/12894#issuecomment-2705393752) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+7. 🗣 Commented on [#169](https://github.com/1111mp/nvm-desktop/issues/169#issuecomment-2702796579) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🗣 Commented on [#168](https://github.com/1111mp/nvm-desktop/issues/168#issuecomment-2699746548) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#167](https://github.com/1111mp/nvm-desktop/issues/167#issuecomment-2693553694) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#167](https://github.com/1111mp/nvm-desktop/issues/167#issuecomment-2693379564) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
