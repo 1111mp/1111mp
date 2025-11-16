@@ -31,9 +31,9 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/1111mp/nvm-desktop/issues/203#issuecomment-3519883344) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#202](https://github.com/1111mp/nvm-desktop/issues/202#issuecomment-3519880531) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#201](https://github.com/1111mp/nvm-desktop/issues/201#issuecomment-3409336653) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🔒 Closed issue [#203](https://github.com/1111mp/nvm-desktop/issues/203) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#203](https://github.com/1111mp/nvm-desktop/issues/203#issuecomment-3519883344) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#202](https://github.com/1111mp/nvm-desktop/issues/202#issuecomment-3519880531) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 4. 🗣 Commented on [#200](https://github.com/1111mp/nvm-desktop/issues/200#issuecomment-3404890273) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 5. 🗣 Commented on [#116](https://github.com/1111mp/nvm-desktop/issues/116#issuecomment-3333088863) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 6. 🔒 Closed issue [#198](https://github.com/1111mp/nvm-desktop/issues/198) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
