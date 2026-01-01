@@ -34,13 +34,13 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
 1. 🗣 Commented on [#200](https://github.com/1111mp/nvm-desktop/issues/200#issuecomment-3677606118) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 2. 🔒 Closed issue [#200](https://github.com/1111mp/nvm-desktop/issues/200) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 3. 🔒 Closed issue [#206](https://github.com/1111mp/nvm-desktop/issues/206) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. ❌ Merged PR [#209](undefined) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. ❌ Merged PR [#19](undefined) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-6. 💪 Opened PR [#19](undefined) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-7. 💪 Opened PR [#209](undefined) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🎉 Merged PR [#209](https://github.com/1111mp/nvm-desktop/pull/209) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🎉 Merged PR [#19](https://github.com/1111mp/nvmd-command/pull/19) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+6. 💪 Opened PR [#19](https://github.com/1111mp/nvmd-command/pull/19) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+7. 💪 Opened PR [#209](https://github.com/1111mp/nvm-desktop/pull/209) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 8. 🗣 Commented on [#206](https://github.com/1111mp/nvm-desktop/issues/206#issuecomment-3650941605) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. ❌ Merged PR [#208](undefined) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 💪 Opened PR [#208](undefined) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🎉 Merged PR [#208](https://github.com/1111mp/nvm-desktop/pull/208) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 💪 Opened PR [#208](https://github.com/1111mp/nvm-desktop/pull/208) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
