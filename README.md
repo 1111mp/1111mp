@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/1111mp/nvm-desktop/issues/202#issuecomment-4060065757) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🎉 Merged PR [#1](https://github.com/1111mp/next-temp-app/pull/1) in [1111mp/next-temp-app](https://github.com/1111mp/next-temp-app)
-3. ℹ️ Labeled PR [#1](https://github.com/1111mp/next-temp-app/pull/1) in [1111mp/next-temp-app](https://github.com/1111mp/next-temp-app)
-4. 💪 Opened PR [#1](https://github.com/1111mp/next-temp-app/pull/1) in [1111mp/next-temp-app](https://github.com/1111mp/next-temp-app)
-5. 🗣 Commented on [#51](https://github.com/1111mp/nvm-desktop/issues/51#issuecomment-4022122546) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🗣 Commented on [#3987](https://github.com/better-auth/better-auth/issues/3987#issuecomment-4020930172) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 🗣 Commented on [#214](https://github.com/1111mp/nvm-desktop/issues/214#issuecomment-4017951485) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#213](https://github.com/1111mp/nvm-desktop/issues/213#issuecomment-4011088611) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🔒 Closed issue [#213](https://github.com/1111mp/nvm-desktop/issues/213) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#213](https://github.com/1111mp/nvm-desktop/issues/213#issuecomment-4003576429) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🎉 Merged PR [#20](https://github.com/1111mp/nvmd-command/pull/20) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+2. ℹ️ Labeled PR [#20](https://github.com/1111mp/nvmd-command/pull/20) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+3. 💪 Opened PR [#20](https://github.com/1111mp/nvmd-command/pull/20) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+4. 🗣 Commented on [#202](https://github.com/1111mp/nvm-desktop/issues/202#issuecomment-4060065757) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🎉 Merged PR [#1](https://github.com/1111mp/next-temp-app/pull/1) in [1111mp/next-temp-app](https://github.com/1111mp/next-temp-app)
+6. ℹ️ Labeled PR [#1](https://github.com/1111mp/next-temp-app/pull/1) in [1111mp/next-temp-app](https://github.com/1111mp/next-temp-app)
+7. 💪 Opened PR [#1](https://github.com/1111mp/next-temp-app/pull/1) in [1111mp/next-temp-app](https://github.com/1111mp/next-temp-app)
+8. 🗣 Commented on [#51](https://github.com/1111mp/nvm-desktop/issues/51#issuecomment-4022122546) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#3987](https://github.com/better-auth/better-auth/issues/3987#issuecomment-4020930172) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 🗣 Commented on [#214](https://github.com/1111mp/nvm-desktop/issues/214#issuecomment-4017951485) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
