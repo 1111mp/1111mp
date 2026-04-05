@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#226](https://github.com/1111mp/nvm-desktop/issues/226) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#226](https://github.com/1111mp/nvm-desktop/issues/226#issuecomment-4187071350) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🗣 Commented on [#226](https://github.com/1111mp/nvm-desktop/issues/226#issuecomment-4186734611) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#226](https://github.com/1111mp/nvm-desktop/issues/226#issuecomment-4186618105) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#225](https://github.com/1111mp/nvm-desktop/issues/225#issuecomment-4140337819) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🗣 Commented on [#225](https://github.com/1111mp/nvm-desktop/issues/225#issuecomment-4140174796) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. ℹ️ Labeled issue [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
-8. ❗ Opened issue [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
-9. 🔒 Closed issue [#164](https://github.com/1111mp/nvm-desktop/issues/164) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#164](https://github.com/1111mp/nvm-desktop/issues/164#issuecomment-4132949291) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#214](https://github.com/1111mp/nvm-desktop/issues/214#issuecomment-4188244876) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🗣 Commented on [#214](https://github.com/1111mp/nvm-desktop/issues/214#issuecomment-4188152642) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🔒 Closed issue [#226](https://github.com/1111mp/nvm-desktop/issues/226) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#226](https://github.com/1111mp/nvm-desktop/issues/226#issuecomment-4187071350) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🗣 Commented on [#226](https://github.com/1111mp/nvm-desktop/issues/226#issuecomment-4186734611) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#226](https://github.com/1111mp/nvm-desktop/issues/226#issuecomment-4186618105) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#225](https://github.com/1111mp/nvm-desktop/issues/225#issuecomment-4140337819) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🗣 Commented on [#225](https://github.com/1111mp/nvm-desktop/issues/225#issuecomment-4140174796) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. ℹ️ Labeled issue [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
+10. ❗ Opened issue [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
   <!--END_SECTION:activity-->
 </details>
 
