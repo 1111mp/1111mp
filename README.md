@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-2. ℹ️ Labeled PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-3. 💪 Opened PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-4. ❌ Closed PR [#41](https://github.com/1111mp/nvmd-command/pull/41) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-5. 🗣 Commented on [#36](https://github.com/1111mp/nvmd-command/issues/36#issuecomment-4199142989) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-6. ❌ Closed PR [#39](https://github.com/1111mp/nvmd-command/pull/39) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-7. ❌ Closed PR [#38](https://github.com/1111mp/nvmd-command/pull/38) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-8. 🎉 Merged PR [#37](https://github.com/1111mp/nvmd-command/pull/37) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-9. ℹ️ Labeled PR [#37](https://github.com/1111mp/nvmd-command/pull/37) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-10. 💪 Opened PR [#37](https://github.com/1111mp/nvmd-command/pull/37) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+1. 🎉 Merged PR [#223](https://github.com/1111mp/nvm-desktop/pull/223) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🎉 Merged PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+3. ℹ️ Labeled PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+4. 💪 Opened PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+5. ❌ Closed PR [#41](https://github.com/1111mp/nvmd-command/pull/41) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+6. 🗣 Commented on [#36](https://github.com/1111mp/nvmd-command/issues/36#issuecomment-4199142989) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+7. ❌ Closed PR [#39](https://github.com/1111mp/nvmd-command/pull/39) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+8. ❌ Closed PR [#38](https://github.com/1111mp/nvmd-command/pull/38) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+9. 🎉 Merged PR [#37](https://github.com/1111mp/nvmd-command/pull/37) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+10. ℹ️ Labeled PR [#37](https://github.com/1111mp/nvmd-command/pull/37) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
   <!--END_SECTION:activity-->
 </details>
 
