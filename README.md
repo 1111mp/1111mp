@@ -31,15 +31,15 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#225](https://github.com/1111mp/nvm-desktop/issues/225) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. ❌ Closed PR [#232](https://github.com/1111mp/nvm-desktop/pull/232) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🎉 Merged PR [#230](https://github.com/1111mp/nvm-desktop/pull/230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. ℹ️ Labeled PR [#230](https://github.com/1111mp/nvm-desktop/pull/230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 💪 Opened PR [#230](https://github.com/1111mp/nvm-desktop/pull/230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🎉 Merged PR [#223](https://github.com/1111mp/nvm-desktop/pull/223) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🎉 Merged PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-8. ℹ️ Labeled PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-9. 💪 Opened PR [#42](https://github.com/1111mp/nvmd-command/pull/42) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+1. 🎉 Merged PR [#1](https://github.com/1111mp/fastapi-app/pull/1) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
+2. ℹ️ Labeled PR [#1](https://github.com/1111mp/fastapi-app/pull/1) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
+3. 💪 Opened PR [#1](https://github.com/1111mp/fastapi-app/pull/1) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
+4. 🔒 Closed issue [#225](https://github.com/1111mp/nvm-desktop/issues/225) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. ❌ Closed PR [#232](https://github.com/1111mp/nvm-desktop/pull/232) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🎉 Merged PR [#230](https://github.com/1111mp/nvm-desktop/pull/230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. ℹ️ Labeled PR [#230](https://github.com/1111mp/nvm-desktop/pull/230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 💪 Opened PR [#230](https://github.com/1111mp/nvm-desktop/pull/230) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🎉 Merged PR [#223](https://github.com/1111mp/nvm-desktop/pull/223) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 10. ❌ Closed PR [#41](https://github.com/1111mp/nvmd-command/pull/41) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
   <!--END_SECTION:activity-->
 </details>
