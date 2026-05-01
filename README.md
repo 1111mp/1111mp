@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#15315](https://github.com/tauri-apps/tauri/issues/15315) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. ℹ️ Labeled issue [#15315](https://github.com/tauri-apps/tauri/issues/15315) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-3. ❗ Opened issue [#15315](https://github.com/tauri-apps/tauri/issues/15315) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. 🎉 Merged PR [#2](https://github.com/1111mp/fastapi-app/pull/2) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
-5. ℹ️ Labeled PR [#2](https://github.com/1111mp/fastapi-app/pull/2) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
-6. 💪 Opened PR [#2](https://github.com/1111mp/fastapi-app/pull/2) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
-7. 🎉 Merged PR [#1](https://github.com/1111mp/fastapi-app/pull/1) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
-8. ℹ️ Labeled PR [#1](https://github.com/1111mp/fastapi-app/pull/1) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
-9. 💪 Opened PR [#1](https://github.com/1111mp/fastapi-app/pull/1) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
-10. 🔒 Closed issue [#225](https://github.com/1111mp/nvm-desktop/issues/225) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4359484642) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. 🔒 Closed issue [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
+3. 🗣 Commented on [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362#issuecomment-4359397383) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
+4. ℹ️ Labeled issue [#15315](https://github.com/tauri-apps/tauri/issues/15315) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+5. ℹ️ Labeled issue [#15315](https://github.com/tauri-apps/tauri/issues/15315) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+6. ❗ Opened issue [#15315](https://github.com/tauri-apps/tauri/issues/15315) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+7. 🎉 Merged PR [#2](https://github.com/1111mp/fastapi-app/pull/2) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
+8. ℹ️ Labeled PR [#2](https://github.com/1111mp/fastapi-app/pull/2) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
+9. 💪 Opened PR [#2](https://github.com/1111mp/fastapi-app/pull/2) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
+10. 🎉 Merged PR [#1](https://github.com/1111mp/fastapi-app/pull/1) in [1111mp/fastapi-app](https://github.com/1111mp/fastapi-app)
   <!--END_SECTION:activity-->
 </details>
 
