@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4417202923) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4416936654) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-3. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4406866223) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. 🗣 Commented on [#268](https://github.com/1111mp/nvm-desktop/issues/268#issuecomment-4394516861) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🎉 Merged PR [#260](https://github.com/1111mp/nvm-desktop/pull/260) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 💪 Opened PR [#260](https://github.com/1111mp/nvm-desktop/pull/260) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4359484642) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-8. 🔒 Closed issue [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
-9. 🗣 Commented on [#3362](https://github.com/tauri-apps/plugins-workspace/issues/3362#issuecomment-4359397383) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
-10. ℹ️ Labeled issue [#15315](https://github.com/tauri-apps/tauri/issues/15315) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 🎉 Merged PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+2. ℹ️ Labeled PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+3. 💪 Opened PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+4. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4417202923) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+5. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4416936654) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+6. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4406866223) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+7. 🗣 Commented on [#268](https://github.com/1111mp/nvm-desktop/issues/268#issuecomment-4394516861) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🎉 Merged PR [#260](https://github.com/1111mp/nvm-desktop/pull/260) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 💪 Opened PR [#260](https://github.com/1111mp/nvm-desktop/pull/260) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4359484642) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
   <!--END_SECTION:activity-->
 </details>
 
