@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-2. ℹ️ Labeled PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-3. 💪 Opened PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-4. 🗣 Commented on [#285](https://github.com/1111mp/nvm-desktop/pull/285#issuecomment-4504624729) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🎉 Merged PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-6. ℹ️ Labeled PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-7. 💪 Opened PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-8. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4417202923) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-9. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4416936654) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-10. 🗣 Commented on [#15315](https://github.com/tauri-apps/tauri/issues/15315#issuecomment-4406866223) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561905649) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🔒 Closed issue [#294](https://github.com/1111mp/nvm-desktop/issues/294) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561728967) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561690167) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🎉 Merged PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+6. ℹ️ Labeled PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+7. 💪 Opened PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+8. 🗣 Commented on [#285](https://github.com/1111mp/nvm-desktop/pull/285#issuecomment-4504624729) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🎉 Merged PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+10. ℹ️ Labeled PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
   <!--END_SECTION:activity-->
 </details>
 
