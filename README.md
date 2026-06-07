@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/apalis-dev/apalis-sqlite/pull/83) in [apalis-dev/apalis-sqlite](https://github.com/apalis-dev/apalis-sqlite)
-2. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561905649) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🔒 Closed issue [#294](https://github.com/1111mp/nvm-desktop/issues/294) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561728967) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561690167) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🎉 Merged PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-7. ℹ️ Labeled PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-8. 💪 Opened PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
-9. 🗣 Commented on [#285](https://github.com/1111mp/nvm-desktop/pull/285#issuecomment-4504624729) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🎉 Merged PR [#1](https://github.com/1111mp/expo-app/pull/1) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+1. 🎉 Merged PR [#2](https://github.com/1111mp/synclan/pull/2) in [1111mp/synclan](https://github.com/1111mp/synclan)
+2. 💪 Opened PR [#2](https://github.com/1111mp/synclan/pull/2) in [1111mp/synclan](https://github.com/1111mp/synclan)
+3. 💪 Opened PR [#83](https://github.com/apalis-dev/apalis-sqlite/pull/83) in [apalis-dev/apalis-sqlite](https://github.com/apalis-dev/apalis-sqlite)
+4. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561905649) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. 🔒 Closed issue [#294](https://github.com/1111mp/nvm-desktop/issues/294) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561728967) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561690167) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🎉 Merged PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+9. ℹ️ Labeled PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+10. 💪 Opened PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
   <!--END_SECTION:activity-->
 </details>
 
