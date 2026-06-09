@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4283](https://github.com/assistant-ui/assistant-ui/issues/4283) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-2. ❗ Opened issue [#4283](https://github.com/assistant-ui/assistant-ui/issues/4283) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-3. 🎉 Merged PR [#2](https://github.com/1111mp/synclan/pull/2) in [1111mp/synclan](https://github.com/1111mp/synclan)
-4. 💪 Opened PR [#2](https://github.com/1111mp/synclan/pull/2) in [1111mp/synclan](https://github.com/1111mp/synclan)
-5. 💪 Opened PR [#83](https://github.com/apalis-dev/apalis-sqlite/pull/83) in [apalis-dev/apalis-sqlite](https://github.com/apalis-dev/apalis-sqlite)
-6. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561905649) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🔒 Closed issue [#294](https://github.com/1111mp/nvm-desktop/issues/294) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561728967) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561690167) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🎉 Merged PR [#2](https://github.com/1111mp/expo-app/pull/2) in [1111mp/expo-app](https://github.com/1111mp/expo-app)
+1. 🗣 Commented on [#305](https://github.com/1111mp/nvm-desktop/issues/305#issuecomment-4655608010) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. ℹ️ Labeled issue [#4283](https://github.com/assistant-ui/assistant-ui/issues/4283) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+3. ❗ Opened issue [#4283](https://github.com/assistant-ui/assistant-ui/issues/4283) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+4. 🎉 Merged PR [#2](https://github.com/1111mp/synclan/pull/2) in [1111mp/synclan](https://github.com/1111mp/synclan)
+5. 💪 Opened PR [#2](https://github.com/1111mp/synclan/pull/2) in [1111mp/synclan](https://github.com/1111mp/synclan)
+6. 💪 Opened PR [#83](https://github.com/apalis-dev/apalis-sqlite/pull/83) in [apalis-dev/apalis-sqlite](https://github.com/apalis-dev/apalis-sqlite)
+7. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561905649) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🔒 Closed issue [#294](https://github.com/1111mp/nvm-desktop/issues/294) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561728967) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#294](https://github.com/1111mp/nvm-desktop/issues/294#issuecomment-4561690167) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
