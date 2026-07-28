@@ -31,7 +31,7 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/1111mp/synclan/issues/3) in [1111mp/synclan](https://github.com/1111mp/synclan)
+1. ℹ️ Labeled PR [#80](https://github.com/1111mp/nvmd-command/pull/80) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
 2. ❗ Opened issue [#3](https://github.com/1111mp/synclan/issues/3) in [1111mp/synclan](https://github.com/1111mp/synclan)
 3. 🗣 Commented on [#361](https://github.com/1111mp/nvm-desktop/issues/361#issuecomment-4979847181) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
 4. 🗣 Commented on [#359](https://github.com/1111mp/nvm-desktop/issues/359#issuecomment-4968130641) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
