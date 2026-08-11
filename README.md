@@ -47,13 +47,13 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
 <details open>
   <summary>:zap: Github Stats</summary>
 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1111mp&show_icons=true&hide_border=true&theme=gruvbox" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=1111mp&show_icons=true&hide_border=true&theme=gruvbox" />
 </details>
 
 <details open>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1111mp&layout=compact&show_icons=true&hide_border=true&theme=gruvbox" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=1111mp&layout=compact&show_icons=true&hide_border=true&theme=gruvbox" />
 </details>
 
 
