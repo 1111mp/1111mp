@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#410](https://github.com/1111mp/nvm-desktop/pull/410) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🎉 Merged PR [#589](https://github.com/zavora-ai/adk-rust/pull/589) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-3. 💪 Opened PR [#589](https://github.com/zavora-ai/adk-rust/pull/589) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-4. ℹ️ Labeled issue [#588](https://github.com/zavora-ai/adk-rust/issues/588) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-5. ❗ Opened issue [#588](https://github.com/zavora-ai/adk-rust/issues/588) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-6. ℹ️ Labeled issue [#587](https://github.com/zavora-ai/adk-rust/issues/587) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-7. ❗ Opened issue [#587](https://github.com/zavora-ai/adk-rust/issues/587) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-8. 🗣 Commented on [#399](https://github.com/1111mp/nvm-desktop/issues/399#issuecomment-5307046762) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🚀 Published release [Resources](https://github.com/1111mp/workrun-app/releases/tag/resources) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-10. 🔒 Closed issue [#323](https://github.com/1111mp/nvm-desktop/issues/323) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#628](https://github.com/zavora-ai/adk-rust/pull/628#issuecomment-5420336662) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+2. 💪 Opened PR [#628](https://github.com/zavora-ai/adk-rust/pull/628) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+3. ❌ Closed PR [#410](https://github.com/1111mp/nvm-desktop/pull/410) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. 🎉 Merged PR [#589](https://github.com/zavora-ai/adk-rust/pull/589) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+5. 💪 Opened PR [#589](https://github.com/zavora-ai/adk-rust/pull/589) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+6. ℹ️ Labeled issue [#588](https://github.com/zavora-ai/adk-rust/issues/588) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+7. ❗ Opened issue [#588](https://github.com/zavora-ai/adk-rust/issues/588) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+8. ℹ️ Labeled issue [#587](https://github.com/zavora-ai/adk-rust/issues/587) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+9. ❗ Opened issue [#587](https://github.com/zavora-ai/adk-rust/issues/587) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+10. 🗣 Commented on [#399](https://github.com/1111mp/nvm-desktop/issues/399#issuecomment-5307046762) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
