@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#643](https://github.com/zavora-ai/adk-rust/pull/643) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-2. ℹ️ Labeled issue [#634](https://github.com/zavora-ai/adk-rust/issues/634) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-3. ❗ Opened issue [#634](https://github.com/zavora-ai/adk-rust/issues/634) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-4. ℹ️ Labeled issue [#633](https://github.com/zavora-ai/adk-rust/issues/633) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-5. ❗ Opened issue [#633](https://github.com/zavora-ai/adk-rust/issues/633) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-6. 🎉 Merged PR [#628](https://github.com/zavora-ai/adk-rust/pull/628) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-7. 🗣 Commented on [#628](https://github.com/zavora-ai/adk-rust/pull/628#issuecomment-5420840398) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-8. 🗣 Commented on [#628](https://github.com/zavora-ai/adk-rust/pull/628#issuecomment-5420336662) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-9. 💪 Opened PR [#628](https://github.com/zavora-ai/adk-rust/pull/628) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-10. ❌ Closed PR [#410](https://github.com/1111mp/nvm-desktop/pull/410) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🎉 Merged PR [#643](https://github.com/zavora-ai/adk-rust/pull/643) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+2. 💪 Opened PR [#643](https://github.com/zavora-ai/adk-rust/pull/643) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+3. ℹ️ Labeled issue [#634](https://github.com/zavora-ai/adk-rust/issues/634) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+4. ❗ Opened issue [#634](https://github.com/zavora-ai/adk-rust/issues/634) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+5. ℹ️ Labeled issue [#633](https://github.com/zavora-ai/adk-rust/issues/633) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+6. ❗ Opened issue [#633](https://github.com/zavora-ai/adk-rust/issues/633) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+7. 🎉 Merged PR [#628](https://github.com/zavora-ai/adk-rust/pull/628) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+8. 🗣 Commented on [#628](https://github.com/zavora-ai/adk-rust/pull/628#issuecomment-5420840398) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+9. 🗣 Commented on [#628](https://github.com/zavora-ai/adk-rust/pull/628#issuecomment-5420336662) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+10. 💪 Opened PR [#628](https://github.com/zavora-ai/adk-rust/pull/628) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
   <!--END_SECTION:activity-->
 </details>
 
