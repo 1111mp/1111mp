@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#659](https://github.com/zavora-ai/adk-rust/pull/659) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-2. 🗣 Commented on [#659](https://github.com/zavora-ai/adk-rust/pull/659#issuecomment-5564980537) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-3. 🎉 Merged PR [#2](https://github.com/1111mp/workrun-app/pull/2) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-4. 💪 Opened PR [#2](https://github.com/1111mp/workrun-app/pull/2) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-5. 💪 Opened PR [#659](https://github.com/zavora-ai/adk-rust/pull/659) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-6. ℹ️ Labeled issue [#658](https://github.com/zavora-ai/adk-rust/issues/658) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-7. ❗ Opened issue [#658](https://github.com/zavora-ai/adk-rust/issues/658) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-8. 🎉 Merged PR [#1](https://github.com/1111mp/workrun-app/pull/1) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-9. 💪 Opened PR [#1](https://github.com/1111mp/workrun-app/pull/1) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-10. 🎉 Merged PR [#643](https://github.com/zavora-ai/adk-rust/pull/643) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+1. 💪 Opened PR [#3](https://github.com/1111mp/workrun-app/pull/3) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+2. 🎉 Merged PR [#659](https://github.com/zavora-ai/adk-rust/pull/659) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+3. 🗣 Commented on [#659](https://github.com/zavora-ai/adk-rust/pull/659#issuecomment-5564980537) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+4. 🎉 Merged PR [#2](https://github.com/1111mp/workrun-app/pull/2) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+5. 💪 Opened PR [#2](https://github.com/1111mp/workrun-app/pull/2) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+6. 💪 Opened PR [#659](https://github.com/zavora-ai/adk-rust/pull/659) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+7. ℹ️ Labeled issue [#658](https://github.com/zavora-ai/adk-rust/issues/658) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+8. ❗ Opened issue [#658](https://github.com/zavora-ai/adk-rust/issues/658) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+9. 🎉 Merged PR [#1](https://github.com/1111mp/workrun-app/pull/1) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+10. 💪 Opened PR [#1](https://github.com/1111mp/workrun-app/pull/1) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
   <!--END_SECTION:activity-->
 </details>
 
