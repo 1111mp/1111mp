@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#633](https://github.com/zavora-ai/adk-rust/issues/633#issuecomment-5790769337) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-2. 🎉 Merged PR [#4](https://github.com/1111mp/workrun-app/pull/4) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-3. 🗣 Commented on [#445](https://github.com/1111mp/nvm-desktop/issues/445#issuecomment-5741442758) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. 🗣 Commented on [#445](https://github.com/1111mp/nvm-desktop/issues/445#issuecomment-5741381431) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-5. 🗣 Commented on [#444](https://github.com/1111mp/nvm-desktop/issues/444#issuecomment-5741304560) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🔒 Closed issue [#444](https://github.com/1111mp/nvm-desktop/issues/444) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 🗣 Commented on [#445](https://github.com/1111mp/nvm-desktop/issues/445#issuecomment-5741223645) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🗣 Commented on [#444](https://github.com/1111mp/nvm-desktop/issues/444#issuecomment-5740385847) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 💪 Opened PR [#4](https://github.com/1111mp/workrun-app/pull/4) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-10. 🎉 Merged PR [#3](https://github.com/1111mp/workrun-app/pull/3) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+1. 🗣 Commented on [#445](https://github.com/1111mp/nvm-desktop/issues/445#issuecomment-5806472903) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 🔒 Closed issue [#445](https://github.com/1111mp/nvm-desktop/issues/445) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. ❌ Closed PR [#37](https://github.com/1111mp/synclan/pull/37) in [1111mp/synclan](https://github.com/1111mp/synclan)
+4. 🗣 Commented on [#633](https://github.com/zavora-ai/adk-rust/issues/633#issuecomment-5790769337) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+5. 🎉 Merged PR [#4](https://github.com/1111mp/workrun-app/pull/4) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+6. 🗣 Commented on [#445](https://github.com/1111mp/nvm-desktop/issues/445#issuecomment-5741442758) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#445](https://github.com/1111mp/nvm-desktop/issues/445#issuecomment-5741381431) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🗣 Commented on [#444](https://github.com/1111mp/nvm-desktop/issues/444#issuecomment-5741304560) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. 🔒 Closed issue [#444](https://github.com/1111mp/nvm-desktop/issues/444) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 🗣 Commented on [#445](https://github.com/1111mp/nvm-desktop/issues/445#issuecomment-5741223645) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
