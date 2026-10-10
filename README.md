@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/1111mp/workrun-app/pull/10) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-2. 💪 Opened PR [#10](https://github.com/1111mp/workrun-app/pull/10) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-3. 🎉 Merged PR [#9](https://github.com/1111mp/workrun-app/pull/9) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-4. 💪 Opened PR [#9](https://github.com/1111mp/workrun-app/pull/9) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-5. 🎉 Merged PR [#8](https://github.com/1111mp/workrun-app/pull/8) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-6. 🎉 Merged PR [#103](https://github.com/1111mp/nvmd-command/pull/103) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-7. 🔒 Closed issue [#467](https://github.com/1111mp/nvm-desktop/issues/467) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 💪 Opened PR [#103](https://github.com/1111mp/nvmd-command/pull/103) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
-9. 💪 Opened PR [#8](https://github.com/1111mp/workrun-app/pull/8) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-10. ℹ️ Labeled issue [#7](https://github.com/1111mp/workrun-app/issues/7) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+1. 🎉 Merged PR [#11](https://github.com/1111mp/workrun-app/pull/11) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+2. 💪 Opened PR [#11](https://github.com/1111mp/workrun-app/pull/11) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+3. 🎉 Merged PR [#10](https://github.com/1111mp/workrun-app/pull/10) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+4. 💪 Opened PR [#10](https://github.com/1111mp/workrun-app/pull/10) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+5. 🎉 Merged PR [#9](https://github.com/1111mp/workrun-app/pull/9) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+6. 💪 Opened PR [#9](https://github.com/1111mp/workrun-app/pull/9) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+7. 🎉 Merged PR [#8](https://github.com/1111mp/workrun-app/pull/8) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+8. 🎉 Merged PR [#103](https://github.com/1111mp/nvmd-command/pull/103) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
+9. 🔒 Closed issue [#467](https://github.com/1111mp/nvm-desktop/issues/467) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+10. 💪 Opened PR [#103](https://github.com/1111mp/nvmd-command/pull/103) in [1111mp/nvmd-command](https://github.com/1111mp/nvmd-command)
   <!--END_SECTION:activity-->
 </details>
 
