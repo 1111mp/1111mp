@@ -31,14 +31,14 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/1111mp/workrun-app/pull/16) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-2. 💪 Opened PR [#16](https://github.com/1111mp/workrun-app/pull/16) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-3. 🎉 Merged PR [#15](https://github.com/1111mp/workrun-app/pull/15) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-4. 💪 Opened PR [#15](https://github.com/1111mp/workrun-app/pull/15) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-5. 🎉 Merged PR [#795](https://github.com/zavora-ai/adk-rust/pull/795) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
-6. 🎉 Merged PR [#14](https://github.com/1111mp/workrun-app/pull/14) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-7. 💪 Opened PR [#14](https://github.com/1111mp/workrun-app/pull/14) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
-8. 💪 Opened PR [#795](https://github.com/zavora-ai/adk-rust/pull/795) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+1. 💪 Opened PR [#17](https://github.com/1111mp/workrun-app/pull/17) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+2. 🎉 Merged PR [#16](https://github.com/1111mp/workrun-app/pull/16) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+3. 💪 Opened PR [#16](https://github.com/1111mp/workrun-app/pull/16) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+4. 🎉 Merged PR [#15](https://github.com/1111mp/workrun-app/pull/15) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+5. 💪 Opened PR [#15](https://github.com/1111mp/workrun-app/pull/15) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+6. 🎉 Merged PR [#795](https://github.com/zavora-ai/adk-rust/pull/795) in [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+7. 🎉 Merged PR [#14](https://github.com/1111mp/workrun-app/pull/14) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
+8. 💪 Opened PR [#14](https://github.com/1111mp/workrun-app/pull/14) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
 9. 💪 Opened PR [#13](https://github.com/1111mp/workrun-app/pull/13) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
 10. 🎉 Merged PR [#12](https://github.com/1111mp/workrun-app/pull/12) in [1111mp/workrun-app](https://github.com/1111mp/workrun-app)
   <!--END_SECTION:activity-->
