@@ -31,16 +31,16 @@ I'm The1111mp, fullstack developer with a focus on frontend. I love building uti
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#503](https://github.com/1111mp/nvm-desktop/issues/503#issuecomment-6517185596) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-2. 🗣 Commented on [#503](https://github.com/1111mp/nvm-desktop/issues/503#issuecomment-6513457099) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-3. 🔒 Closed issue [#503](https://github.com/1111mp/nvm-desktop/issues/503) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-4. ❌ Closed PR [#53](https://github.com/1111mp/synclan/pull/53) in [1111mp/synclan](https://github.com/1111mp/synclan)
-5. ❌ Closed PR [#517](https://github.com/1111mp/nvm-desktop/pull/517) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-6. 🎉 Merged PR [#516](https://github.com/1111mp/nvm-desktop/pull/516) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-7. 💪 Opened PR [#516](https://github.com/1111mp/nvm-desktop/pull/516) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-8. 🎉 Merged PR [#514](https://github.com/1111mp/nvm-desktop/pull/514) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-9. 🔒 Closed issue [#202](https://github.com/1111mp/nvm-desktop/issues/202) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
-10. 🗣 Commented on [#503](https://github.com/1111mp/nvm-desktop/issues/503#issuecomment-6469924146) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+1. 🗣 Commented on [#522](https://github.com/1111mp/nvm-desktop/issues/522#issuecomment-6524738431) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+2. 💪 Opened PR [#523](https://github.com/1111mp/nvm-desktop/pull/523) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+3. 🗣 Commented on [#522](https://github.com/1111mp/nvm-desktop/issues/522#issuecomment-6522753293) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+4. ❌ Closed PR [#520](https://github.com/1111mp/nvm-desktop/pull/520) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+5. ❌ Closed PR [#519](https://github.com/1111mp/nvm-desktop/pull/519) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+6. 🗣 Commented on [#503](https://github.com/1111mp/nvm-desktop/issues/503#issuecomment-6517185596) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+7. 🗣 Commented on [#503](https://github.com/1111mp/nvm-desktop/issues/503#issuecomment-6513457099) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+8. 🔒 Closed issue [#503](https://github.com/1111mp/nvm-desktop/issues/503) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
+9. ❌ Closed PR [#53](https://github.com/1111mp/synclan/pull/53) in [1111mp/synclan](https://github.com/1111mp/synclan)
+10. ❌ Closed PR [#517](https://github.com/1111mp/nvm-desktop/pull/517) in [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop)
   <!--END_SECTION:activity-->
 </details>
 
